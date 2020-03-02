@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="03255db9db530010acc285184b961908" sys_domain="global" table="x_58872_needit_needit" version="3" view="User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>m.moukannas@gmail.com</sys_created_by>
+            <sys_created_on>2020-03-02 17:09:35</sys_created_on>
+            <sys_id>b8769df9db530010acc285184b961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">03255db9db530010acc285184b961908</sys_ui_section>
+            <sys_updated_by>m.moukannas@gmail.com</sys_updated_by>
+            <sys_updated_on>2020-03-02 17:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>m.moukannas@gmail.com</sys_created_by>
+            <sys_created_on>2020-03-02 17:09:35</sys_created_on>
+            <sys_id>3c769df9db530010acc285184b961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">03255db9db530010acc285184b961908</sys_ui_section>
+            <sys_updated_by>m.moukannas@gmail.com</sys_updated_by>
+            <sys_updated_on>2020-03-02 17:09:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>2</position>
+            <sys_created_by>m.moukannas@gmail.com</sys_created_by>
+            <sys_created_on>2020-03-02 17:09:35</sys_created_on>
+            <sys_id>bc769df9db530010acc285184b961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">03255db9db530010acc285184b961908</sys_ui_section>
+            <sys_updated_by>m.moukannas@gmail.com</sys_updated_by>
+            <sys_updated_on>2020-03-02 17:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>m.moukannas@gmail.com</sys_created_by>
+            <sys_created_on>2020-03-02 17:09:35</sys_created_on>
+            <sys_id>30769df9db530010acc285184b961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">03255db9db530010acc285184b961908</sys_ui_section>
+            <sys_updated_by>m.moukannas@gmail.com</sys_updated_by>
+            <sys_updated_on>2020-03-02 17:09:35</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>4</position>
+            <sys_created_by>m.moukannas@gmail.com</sys_created_by>
+            <sys_created_on>2020-03-02 17:09:35</sys_created_on>
+            <sys_id>b0769df9db530010acc285184b961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">03255db9db530010acc285184b961908</sys_ui_section>
+            <sys_updated_by>m.moukannas@gmail.com</sys_updated_by>
+            <sys_updated_on>2020-03-02 17:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>m.moukannas@gmail.com</sys_created_by>
+            <sys_created_on>2020-03-02 17:04:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03255db9db530010acc285184b961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_03255db9db530010acc285184b961908</sys_update_name>
+            <sys_updated_by>m.moukannas@gmail.com</sys_updated_by>
+            <sys_updated_on>2020-03-02 17:04:01</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d2796921dbe193040e785d00cf961929</instance_id>
+        <instance_name>dev56543</instance_name>
+        <name>sys_ui_section_03255db9db530010acc285184b961908</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="03255db9db530010acc285184b961908" sys_domain="global" table="x_58872_needit_needit" version="3" view="User"><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>m.moukannas@gmail.com</sys_created_by><sys_created_on>2020-03-02 17:09:35</sys_created_on><sys_id>b8769df9db530010acc285184b961982</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">03255db9db530010acc285184b961908</sys_ui_section><sys_updated_by>m.moukannas@gmail.com</sys_updated_by><sys_updated_on>2020-03-02 17:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>m.moukannas@gmail.com</sys_created_by><sys_created_on>2020-03-02 17:09:35</sys_created_on><sys_id>3c769df9db530010acc285184b961982</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">03255db9db530010acc285184b961908</sys_ui_section><sys_updated_by>m.moukannas@gmail.com</sys_updated_by><sys_updated_on>2020-03-02 17:09:35</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>2</position><sys_created_by>m.moukannas@gmail.com</sys_created_by><sys_created_on>2020-03-02 17:09:35</sys_created_on><sys_id>bc769df9db530010acc285184b961982</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">03255db9db530010acc285184b961908</sys_ui_section><sys_updated_by>m.moukannas@gmail.com</sys_updated_by><sys_updated_on>2020-03-02 17:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>3</position><sys_created_by>m.moukannas@gmail.com</sys_created_by><sys_created_on>2020-03-02 17:09:35</sys_created_on><sys_id>30769df9db530010acc285184b961983</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">03255db9db530010acc285184b961908</sys_ui_section><sys_updated_by>m.moukannas@gmail.com</sys_updated_by><sys_updated_on>2020-03-02 17:09:35</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>4</position><sys_created_by>m.moukannas@gmail.com</sys_created_by><sys_created_on>2020-03-02 17:09:35</sys_created_on><sys_id>b0769df9db530010acc285184b961983</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">03255db9db530010acc285184b961908</sys_ui_section><sys_updated_by>m.moukannas@gmail.com</sys_updated_by><sys_updated_on>2020-03-02 17:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>m.moukannas@gmail.com</sys_created_by><sys_created_on>2020-03-02 17:04:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>03255db9db530010acc285184b961908</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Section</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_03255db9db530010acc285184b961908</sys_update_name><sys_updated_by>m.moukannas@gmail.com</sys_updated_by><sys_updated_on>2020-03-02 17:04:01</sys_updated_on><sys_user/><title>false</title><view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1024175114</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>8287cd31db530010acc285184b961928</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>m.moukannas@gmail.com</sys_created_by>
+        <sys_created_on>2020-03-02 17:09:35</sys_created_on>
+        <sys_id>f8769df9db530010acc285184b961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1709c3972a80000001</sys_recorded_at>
+        <sys_updated_by>m.moukannas@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-03-02 17:09:35</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>74769df977530010a6f16bc73f9b4784</update_guid>
+        <update_guid_history>74769df977530010a6f16bc73f9b4784:-1024175114,0f565df9a1530010159a9d20acdd695e:1099030220,3536d9f9f35300101c222a71f9e85e8f:-1232202243,53255db921530010f2f6101ef2f7e455:1824180158</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>m.moukannas@gmail.com</sys_created_by>
+        <sys_created_on>2020-03-02 17:10:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1aeea5a84e2e46e09bc55389b7432900</sys_id>
+        <sys_metadata>03255db9db530010acc285184b961908</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">c8e945f1db530010acc285184b961966</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_03255db9db530010acc285184b961908</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_03255db9db530010acc285184b961908">f8769df9db530010acc285184b961984</sys_update_version>
+        <sys_updated_by>m.moukannas@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-03-02 17:10:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
